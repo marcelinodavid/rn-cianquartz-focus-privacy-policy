@@ -76,7 +76,7 @@ Aunque la aplicación no almacena contenido del usuario en servidores externos, 
 
 ## 6. Menores de edad
 
-CianQuartz Focus está dirigida al público en general. La aplicación no recopila información personal de sus usuarios.
+CianQuartz Focus está dirigida a adolescentes y adultos interesados en mejorar sus hábitos de concentración y gestión del tiempo. La aplicación no está diseñada específicamente para niños menores de 13 años y no recopila información personal de sus usuarios.
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Última actualización: Julio de 2026**
 
-CianQuartz Focus es una aplicación diseñada para ofrecer un espacio personal de enfoque consciente mediante sesiones de trabajo profundo y descanso. Inspirada en el concepto de programación de cuarzos y en las metodologías de trabajo por intervalos, la aplicación acompaña al usuario a desarrollar constancia y coherencia entre la intención de iniciar una sesión y el compromiso de completarla.
+CianQuartz Focus es una aplicación diseñada para ofrecer un espacio personal de enfoque mediante sesiones de trabajo y descanso organizadas por intervalos. La aplicación ayuda al usuario a desarrollar constancia y mantener hábitos de concentración.
 
-La aplicación está diseñada para funcionar sin registro de usuarios, sin cuentas y sin recopilación de datos personales.
+La aplicación está diseñada para funcionar sin registro de usuarios, sin cuentas y sin recopilar información personal.
 
 ---
 
@@ -26,8 +26,8 @@ Toda esta información permanece almacenada únicamente en el dispositivo del us
 
 La aplicación almacena únicamente información relacionada con el funcionamiento de las sesiones y métricas de uso dentro del dispositivo del usuario, tales como:
 
-* Número de sesiones completadas.
-* Estadísticas de sesiones completadas por período (hoy, ayer, mes actual, mes anterior y total).
+* Número de sesiones completadas. 
+* La racha de sesiones completadas.
 
 Estas métricas se guardan únicamente en el dispositivo del usuario y no son enviadas al desarrollador ni a servidores externos.
 
